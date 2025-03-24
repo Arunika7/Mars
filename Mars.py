@@ -7,8 +7,8 @@ import threading
 import sys
 
 # === Setup ===
-genai.configure(api_key="AIzaSyABKDN-tqRLnQX8U9bzywwuMOtXdEoI2OQ")
-model = genai.GenerativeModel("gemini-1.5-flash")
+genai.configure(api_key="Add API KEY")
+model = genai.GenerativeModel("Add your own model")
 engine = pyttsx3.init()
 engine.setProperty('rate', 170)
 
