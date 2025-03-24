@@ -26,7 +26,6 @@ Mars is an intelligent, real-time, multimodal robot assistant built using Python
 ```bash
 Mars/
 ├── Mars.py              # Main file to run the assistant
-├── assets/              # (Optional) Face components if needed
 ├── README.md
 ├── LICENSE
 └── requirements.txt     # Python dependencies
